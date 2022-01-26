@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Grocery Shopping",
+      "day": "12th February at 7:30pm",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "text": "Visit a friend",
+      "day": "1st March at 1:00pm",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "text": "Double click task to update task completion status",
+      "day": "Now",
+      "completed": true,
+      "id": 8
+    }
+  ]
+}
