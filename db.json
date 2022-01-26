@@ -1,28 +1,16 @@
 {
   "tasks": [
     {
-      "text": "Grocery Shopping",
-      "day": "12th February at 7:30pm",
-      "completed": false,
-      "id": 2
+      "text": "task one",
+      "day": "8th feb",
+      "completed": "",
+      "id": 10
     },
     {
-      "text": "Visit a friend",
-      "day": "1st March at 1:00pm",
-      "completed": false,
-      "id": 3
-    },
-    {
-      "text": "Double click task to update task completion status",
-      "day": "Now",
+      "text": "task 3",
+      "day": "weeee",
       "completed": true,
-      "id": 8
-    },
-    {
-      "text": "Testing functionality after deployment",
-      "day": "now",
-      "completed": true,
-      "id": 9
+      "id": 11
     }
   ]
 }
