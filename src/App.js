@@ -69,7 +69,7 @@ function App() {
      }
   return (
       <div className="flex justify-center pt-3 h-screen items-center bg-neutral-100">
-        <div className='h-fit bg-blue-50 rounded-lg shadow-2xl w-1/2   border border-l-blue-300 border-b-blue-300 overflow-auto'>
+        <div className='h-fit bg-blue-50 rounded-lg shadow-2xl xl:w-1/4 w-1/2  border border-l-blue-300 border-b-blue-300 overflow-auto'>
           <Header title="Task Tracker" onAdd={ () => setShowAddTask(!showAddTask)} showAdd={showAddTask}></Header>
           <div className="flex justify-center">
           {showAddTask && <AddTask onAdd = {addTask}/>}
