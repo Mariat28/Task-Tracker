@@ -72,7 +72,7 @@ function App() {
         <div className='h-1/2 bg-blue-50 rounded-lg shadow-2xl xl:w-1/4 w-1/2  border border-l-blue-300 border-b-blue-300 overflow-auto flex flex-col justify-between'>
           <div>
           <Header title="Task Tracker" onAdd={ () => setShowAddTask(!showAddTask)} showAdd={showAddTask}></Header>
-          <div className="flex justify-center">
+          <div className="flex justify-center ">
           {showAddTask && <AddTask onAdd = {addTask}/>}
           </div>
           <div>

@@ -1,16 +1,3 @@
 {
-  "tasks": [
-    {
-      "text": "task one",
-      "day": "8th feb",
-      "completed": "",
-      "id": 10
-    },
-    {
-      "text": "task 3",
-      "day": "weeee",
-      "completed": true,
-      "id": 11
-    }
-  ]
+  "tasks": []
 }
